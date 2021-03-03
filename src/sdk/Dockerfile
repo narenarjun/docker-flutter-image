@@ -1,7 +1,7 @@
 FROM quay.io/narendev/android-sdk:29
 
 # this is the current stable verison , reference taken from https://flutter.dev/docs/development/tools/sdk/releases?tab=windows#stable-channel
-ENV flutter_version=1.22.2
+ENV flutter_version=2.0.0
 
 ENV FLUTTER_HOME=${HOME}/sdks/flutter \
     FLUTTER_VERSION=$flutter_version
