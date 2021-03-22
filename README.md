@@ -5,7 +5,7 @@ Flutter stable version is containerized on-top of [android sdk image](https://qu
 You can get the image and run via docker or podman:
 
 ```bash
-docker pull quay.io/narendev/flutter:v2.0.2
+docker pull quay.io/narendev/flutter:v2.0.3
 ```
 
 
